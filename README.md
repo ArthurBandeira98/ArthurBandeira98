@@ -1,6 +1,4 @@
-# 💫 About Me:
-I'm Arthur, brazilian developer and passionate about technology.<br><br>
-
+# 💫 Arthur Bandeira - Software Development Engineer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arthur-bandeira-972078129/) 
